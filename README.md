@@ -1,2 +1,2 @@
 # calculator
- calculator using java
+ calculator using java awt package .
